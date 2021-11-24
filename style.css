@@ -1,0 +1,15 @@
+h1{
+    margin-bottom: 30px;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    border: solid;
+}
+button{
+    margin-bottom: 20px;
+}
+hr{
+    margin-bottom: 15px;
+}
